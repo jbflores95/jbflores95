@@ -9,7 +9,7 @@
 
 - Microsoft Azure
  
-  -  [Creating a Virtual Machine from Scratch](https://github.com/jbflores95/Virtual-machines)
+  -  [Creating a Virtual Machine from Scratch](https://github.com/jbflores95/Virtual-machine)
   -
 
 
