@@ -9,7 +9,7 @@
 
 - Microsoft Azure
  
-  -  
+  -  Creating a Virtual Machine from Scratch
   -
 
 
