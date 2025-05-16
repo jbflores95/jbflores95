@@ -1,6 +1,6 @@
 <h1>Hi, I'm Javier, an <a href="https://www.linkedin.com/in/javier-flores-2a4243319/">IT Professional </h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Information Technology Projects👨‍💻:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/jbflores95/osticket-prereqs)
