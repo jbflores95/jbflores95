@@ -1,4 +1,4 @@
-<h1>Hi, I'm Javier, an <a href="https://www.linkedin.com/in/javier-flores-2a4243319/"> IT Professional <br/>
+<h1>Hi, I'm Javier, an <a href="https://www.linkedin.com/in/javier-flores-2a4243319/">IT Professional </h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -6,9 +6,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/jbflores95/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakor1/Algorithms-Practice)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
-  
 - Microsoft Azure
- 
   -  [Creating a Virtual Machine from Scratch](https://github.com/jbflores95/Virtual-machine)
   -
 
