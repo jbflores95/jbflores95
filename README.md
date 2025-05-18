@@ -1,7 +1,7 @@
 ![giphy-ezgif com-resize](https://github.com/user-attachments/assets/2859e433-5903-422c-9716-51dbda420a67)
 
 
-<h1>Hi, I'm Javier, an <a href="https://www.linkedin.com/in/javier-flores-2a4243319/">IT Professional :smile: :wave: </h1>
+<h1>Hi, I'm Javier, an <a href="https://www.linkedin.com/in/javier-flores-2a4243319/">IT Professional :smile: :wave: :computer: </h1>
 
 
 
