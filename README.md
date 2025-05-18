@@ -1,7 +1,8 @@
 <h1>Hi, I'm Javier, an <a href="https://www.linkedin.com/in/javier-flores-2a4243319/">IT Professional </h1>
 
 
-![giphy](https://github.com/user-attachments/assets/0e2578e2-0160-489c-8c08-daeb35068b78)
+![giphy-ezgif com-resize](https://github.com/user-attachments/assets/2859e433-5903-422c-9716-51dbda420a67)
+
 
 
 
