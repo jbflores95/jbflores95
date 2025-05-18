@@ -7,9 +7,14 @@
 
 <h2>👨‍💻 Information Technology Projects: </h2> 
 
+<img src="https://github.com/user-attachments/assets/bde73cf2-365a-4a21-a785-5f6cea97c962" align="right" width="250">
+
+
+
+
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/jbflores95/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [osTicket: Prerequisites and Installation](https://github.com/jbflores95/osticket-prereqs)                                                                          
+  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakor1/Algorithms-Practice)                                                                                
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - Microsoft Azure
   -  [Creating a Virtual Machine from Scratch](https://github.com/jbflores95/Virtual-machine)
