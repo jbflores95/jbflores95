@@ -1,12 +1,11 @@
-<h1>Hi, I'm Javier, an <a href="https://www.linkedin.com/in/javier-flores-2a4243319/">IT Professional </h1>
-
+<h1>Hi, I'm Javier, an <a href="https://www.linkedin.com/in/javier-flores-2a4243319/">IT Professional :smile: :wave: </h1>
 
 ![giphy-ezgif com-resize](https://github.com/user-attachments/assets/2859e433-5903-422c-9716-51dbda420a67)
 
 
 
 
-<h2>👨‍💻 Information Technology Projects👨‍💻:</h2>
+<h2>👨‍💻 Information Technology Projects: </h2> 
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/jbflores95/osticket-prereqs)
