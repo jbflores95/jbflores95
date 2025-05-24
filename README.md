@@ -6,10 +6,7 @@
 ![giphy-ezgif com-resize](https://github.com/user-attachments/assets/2859e433-5903-422c-9716-51dbda420a67)
 
 
-<h1>Hi, I'm Javier, an <a href="https://www.linkedin.com/in/javier-flores-2a4243319/">IT Professional :smile: :wave: :computer: </h1>
-
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&width=750&height=50&lines=Hi%2C+I'm+Javier%2C+An+IT+Professional+%F0%9F%98%84+%F0%9F%91%8B+%F0%9F%92%BB)](https://github.com/readme-typing-svg)
 
 
 
