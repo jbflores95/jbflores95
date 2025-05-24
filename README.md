@@ -7,7 +7,8 @@
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&width=750&height=50&lines=Hi%2C+I'm+Javier%2C+An+IT+Professional+%F0%9F%98%84+%F0%9F%91%8B+%F0%9F%92%BB)](https://github.com/readme-typing-svg)
-
+---
+<br>
 
 
 <h2>👨‍💻 Information Technology Projects: </h2> 
