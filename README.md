@@ -32,7 +32,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 <a href="https://www.linkedin.com/in/javier-flores-2a4243319/" target="_blank">
-  <img align="left" alt="Javier Flores | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Javier Flores | LinkedIn" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 
