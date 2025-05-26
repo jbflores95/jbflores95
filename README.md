@@ -15,19 +15,11 @@
 
 
 
-<table>
-  <tr>
-    <td width="70%">
-      <!-- YOUR PROJECTS/TEXT CONTENT GOES HERE -->
-      - **Project 1:** Description  
-      - **Project 2:** Description  
-      - **Project 3:** Description  
-    </td>
-    <td width="30%">
-      <img src="https://github.com/user-attachments/assets/bde73cf2-365a-4a21-a785-5f6cea97c962" width="100%">
-    </td>
-  </tr>
-</table>
+<div style="float: right; margin-left: 20px; margin-bottom: 20px;">
+  <img src="https://github.com/user-attachments/assets/bde73cf2-365a-4a21-a785-5f6cea97c962" width="250">
+</div>
+
+<div style="clear: both;"></div>
 <img src="https://github.com/user-attachments/assets/bde73cf2-365a-4a21-a785-5f6cea97c962" align="right" width="250">
 
 
