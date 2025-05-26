@@ -8,9 +8,10 @@
 
 ![giphy-ezgif com-resize](https://github.com/user-attachments/assets/2859e433-5903-422c-9716-51dbda420a67)
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&width=800&height=60&lines=Hi%2C+I'm+Javier%2C+An+IT+Professional+%F0%9F%98%84+%F0%9F%91%8B+%F0%9F%92%BB" alt="Typing animation">
+<div style="text-align: left; width: 100%; min-width: 800px; overflow-x: auto;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&width=800&height=60&lines=Hi%2C+I'm+Javier%2C+An+IT+Professional+%F0%9F%98%84+%F0%9F%91%8B+%F0%9F%92%BB" alt="Typing animation" style="display: block;">
 </div>
+
 ---
 <br>
 
