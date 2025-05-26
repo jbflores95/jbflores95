@@ -27,7 +27,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - Microsoft Azure
   -  [Creating a Virtual Machine from Scratch](https://github.com/jbflores95/Virtual-machine)
-  -
+  
 
 
 
