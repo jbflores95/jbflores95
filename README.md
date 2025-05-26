@@ -14,9 +14,10 @@
 <h2>👨‍💻 Information Technology Projects: </h2> 
 
 
-
+<!-- Image displayed centered -->
+<p align="center">
 <img src="https://github.com/user-attachments/assets/bde73cf2-365a-4a21-a785-5f6cea97c962" align="right" width="250">
-
+</p>
 
 
 
