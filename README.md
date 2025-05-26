@@ -5,6 +5,8 @@
 
 ![giphy-ezgif com-resize](https://github.com/user-attachments/assets/2859e433-5903-422c-9716-51dbda420a67)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&width=100%25&height=50&lines=Hi%2C+I%27m+Javier%2C+An+IT+Professional+%F0%9F%98%84+%F0%9F%91%8B+%F0%9F%92%BB)](https://github.com/readme-typing-svg)
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&width=750&height=50&lines=Hi%2C+I'm+Javier%2C+An+IT+Professional+%F0%9F%98%84+%F0%9F%91%8B+%F0%9F%92%BB)](https://github.com/readme-typing-svg)
 ---
