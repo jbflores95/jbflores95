@@ -1,4 +1,7 @@
 <img src="https://raw.githubusercontent.com/jbflores95/jbflores95/main/animated-bar.svg" width="100%" />
+<div style="width: 100%; overflow: hidden;">
+  <img src="https://raw.githubusercontent.com/jbflores95/jbflores95/main/animated-bar.svg" width="100%" style="display: block;">
+</div>
 
 ![new header](https://github.com/user-attachments/assets/bb26ba1a-511c-4e33-bb1e-ee3b2ba6e84f)
 
