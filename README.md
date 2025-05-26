@@ -20,8 +20,6 @@
 </div>
 
 <div style="clear: both;"></div>
-<img src="https://github.com/user-attachments/assets/bde73cf2-365a-4a21-a785-5f6cea97c962" align="right" width="250">
-
 
 
 - <b>osTicket (Help Desk Ticketing System)</b>
