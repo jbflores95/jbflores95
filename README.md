@@ -1,7 +1,8 @@
 <img src="https://raw.githubusercontent.com/jbflores95/jbflores95/main/animated-bar.svg" width="100%" />
 
+![image](https://github.com/user-attachments/assets/a3f6c393-18a5-43c6-8125-f34caa27ae5a)
 
-![Green and Black Modern Gamer YouTube Banner](https://github.com/user-attachments/assets/e0c83fa5-669f-4c13-b308-7040954d731c)
+
 
 ![giphy-ezgif com-resize](https://github.com/user-attachments/assets/2859e433-5903-422c-9716-51dbda420a67)
 
