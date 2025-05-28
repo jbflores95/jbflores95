@@ -1,0 +1,17 @@
+name: Snake Animation
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs daily at midnight UTC
+  workflow_dispatch:       # Lets you manually run it
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@master
+        with:
+          github_user_name: jbflores95
+        outputs: dist/snake.svg
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
