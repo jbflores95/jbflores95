@@ -29,7 +29,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jbflores95/ticket-lifecycle)
 - Microsoft Azure
   -  [Creating a Virtual Machine from Scratch](https://github.com/jbflores95/Virtual-machine)
-  
+  - [Preparing Ad Infrastructure in Azure](https://github.com/jbflores95/AD-Infrastructure/blob/main/README.md)
 - Active Directory
   - AD Deployment and Configuration (coming soon)
   - Creating Users and Group Policy Objects. (coming soon)
