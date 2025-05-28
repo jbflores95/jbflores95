@@ -31,8 +31,8 @@
   -  [Creating a Virtual Machine from Scratch](https://github.com/jbflores95/Virtual-machine)
   
 - Active Directory
-  - AD Demployment and Configuration
-  - Creating Users and Group Policy Objects.
+  - AD Deployment and Configuration (coming soon)
+  - Creating Users and Group Policy Objects. (coming soon)
 
 
 <h2> 🤳 Connect with me:</h2>
