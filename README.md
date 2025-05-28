@@ -44,4 +44,4 @@
 <img src="https://raw.githubusercontent.com/jbflores95/jbflores95/main/animated-bar.svg" width="100%" />
 
 
-![Snake animation](https://raw.githubusercontent.com/jbflores95/jbflores95/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/jbflores95/jbflores95/output/snake-dark.svg)
