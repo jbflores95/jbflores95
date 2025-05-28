@@ -27,12 +27,15 @@ jobs:
         
       # Generate the snake animation
       - name: Generate snake game
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: jbflores95
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
+            dist/ocean.gif?palette=ocean.blue
+            dist/github.gif
+            dist/github-dark.gif?palette=github-dark
           
       # Push the generated files to the output branch
       - name: Push snake animation to output branch
