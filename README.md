@@ -15,13 +15,11 @@
 <h2>👨‍💻 Information Technology Projects: </h2> 
 
 
-
 <div style="float: right; margin-left: 20px; margin-bottom: 20px;">
   <img src="https://github.com/user-attachments/assets/bde73cf2-365a-4a21-a785-5f6cea97c962" width="250">
 </div>
 
 <div style="clear: both;"></div>
-
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/jbflores95/osticket-prereqs)                                                                          
@@ -33,6 +31,7 @@
 - Active Directory
   - [AD Deployment and Configuration](https://github.com/jbflores95/AD-Deployment/blob/main/README.md)(coming soon)
   - [Creating Users and Group Policy Objects](https://github.com/jbflores95/user-and-group-policy) (coming soon)
+
 
 
 <h2> 🤳 Connect with me:</h2>
