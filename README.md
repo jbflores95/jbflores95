@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/jbflores95/jbflores95/main/animated-bar.svg" width="100%" />
 
-![image](https://github.com/user-attachments/assets/a3f6c393-18a5-43c6-8125-f34caa27ae5a)
+![image](https://github.com/user-attachments/assets/b82c0d6b-bb51-412e-b53a-0036e8c5951f)
 
 
 
