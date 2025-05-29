@@ -32,7 +32,7 @@
   - [Preparing Ad Infrastructure in Azure](https://github.com/jbflores95/AD-Infrastructure/blob/main/README.md)
 - Active Directory
   - [AD Deployment and Configuration](https://github.com/jbflores95/AD-Deployment/blob/main/README.md)(coming soon)
-  - Creating Users and Group Policy Objects. (coming soon)
+  - [Creating Users and Group Policy Objects](https://github.com/jbflores95/user-and-group-policy) (coming soon)
 
 
 <h2> 🤳 Connect with me:</h2>
