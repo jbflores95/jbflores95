@@ -29,8 +29,8 @@
   -  [Creating a Virtual Machine from Scratch](https://github.com/jbflores95/Virtual-machine)
   - [Preparing Ad Infrastructure in Azure](https://github.com/jbflores95/AD-Infrastructure/blob/main/README.md)
 - Active Directory
-  - [AD Deployment and Configuration](https://github.com/jbflores95/AD-Deployment/blob/main/README.md)(coming soon)
-  - [Creating Users and Group Policy Objects](https://github.com/jbflores95/user-and-group-policy) (coming soon)
+  - [AD Deployment and Configuration](https://github.com/jbflores95/AD-Deployment/blob/main/README.md)
+  - [Creating Users and Group Policy Objects](https://github.com/jbflores95/user-and-group-policy) 
 
 
 
